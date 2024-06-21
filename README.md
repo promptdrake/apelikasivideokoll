@@ -7,8 +7,8 @@ Wajib Punya Tmail (Temporary email) Punya sendiri
 Example: [aisbircubes.my.id](https://aisbircubes.my.id)
 
 ## Instalation
+download zip githubnya dulu ngabs
 ```bat
-download zip github ini
 $ npm i
 $ node index.js
 ```
